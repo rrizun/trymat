@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+*{font-family:'Ubuntu',sans-serif;}
+body{margin:0}
+.status{qborder:1px solid black;padding:6pt}
+.valid{color:white;background-color:#5a5}
+.invalid{color:white;background-color:#a55}
